@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+ 
+header{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Source Serif 4", serif;
+}
+
+ul{
+    font-size: 150%;
+}
+
+.two{
+    border: solid;
+    width: 100px;
+    display: flex;
+    justify-content: start;
+}
+
+header>h1{
+    width: 60%;
+    font-size: 330%
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.Hollow{
+    background-image: url(img/GAJpf7C1mKbeYQI0GL1rnw.jpeg);
+    height: 100vh;
+}
+.Silksong{
+    background-image: url(img/RE4ZpsB.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.infa{
+    background-color: black;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.foot{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
